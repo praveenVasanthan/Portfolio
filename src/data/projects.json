@@ -22,5 +22,22 @@
       "description":
         "The Quiz Competition Website is an innovative platform designed to provide students with an engaging way to participate in online quiz competitions. This platform is tailored to create a dynamic and interactive experience for students by offering a wide variety of quizzes that test their knowledge on diverse topics. The quizzes are built with a timed response feature, adding an element of excitement and urgency to the competition. Participants must answer each question within a specific time limit, which challenges their ability to think quickly and accurately under pressure. To further enhance the user experience, the platform includes a robust score tracking system that calculates and displays each participant's performance as they progress through the quiz. At the end of each competition, an interactive leaderboard is generated, showcasing the top performers and their respective rankings. This feature not only motivates participants to improve their scores but also fosters a healthy sense of competition among students. The website is designed with user-friendliness in mind, ensuring that students of all skill levels can easily navigate and enjoy the quiz experience, making it a valuable tool for learning and self-assessment.",
       "url": "https://quiz.roririsoft.com/"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/plots2u.png",
+      "title": "Plots2u",
+      "description":
+        "I am developing a React-based frontend for a real estate web application named Plots2U. The platform is designed to provide users with a seamless experience in exploring, listing, and managing real estate properties. The application features an intuitive UI, responsive design, and interactive property search functionality. Using modern technologies like React.js, React Router, Redux/Context API, and Material-UI, Plots2U ensures a smooth and dynamic user experience. The project aims to enhance property discovery and streamline the real estate process for buyers, sellers, and agents.",
+      "url": "https://plots2u.com/"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/gold_admin.png",
+      "title": "Gold Scheme Admin",
+      "description":
+        "I am developing a React-based frontend for a real estate web application named Plots2U. The platform is designed to provide users with a seamless experience in exploring, listing, and managing real estate properties. The application features an intuitive UI, responsive design, and interactive property search functionality. Using modern technologies like React.js, React Router, Redux/Context API, and Material-UI, Plots2U ensures a smooth and dynamic user experience. The project aims to enhance property discovery and streamline the real estate process for buyers, sellers, and agents.",
+      "url": "https://goldscheme.roririsoft.com/"
     }
+
   ]
